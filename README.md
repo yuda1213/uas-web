@@ -9,6 +9,7 @@
 6. [Panduan Penggunaan](#panduan-penggunaan)
 7. [Akun Demo](#akun-demo)
 
+
 ---
 
 ## 📱 Ringkasan Proyek
@@ -23,6 +24,7 @@ Aplikasi Coffee Shop adalah sistem manajemen penjualan kopi berbasis web yang di
 
 ---
 
+
 ## ✨ Fitur Aplikasi
 
 ### 1. **Autentikasi & Otorisasi**
@@ -32,10 +34,12 @@ Aplikasi Coffee Shop adalah sistem manajemen penjualan kopi berbasis web yang di
 - ✅ Role-based access control (Admin & User)
 - ✅ Session timeout management
 
+
 ### 2. **Dashboard Admin**
 - ✅ Statistik penjualan, produk, user, pesanan
 - ✅ Daftar pesanan terbaru
 - ✅ Quick actions ke berbagai modul
+
 
 ### 3. **Manajemen Produk (CRUD)**
 - ✅ Tambah, edit, hapus produk
@@ -44,16 +48,19 @@ Aplikasi Coffee Shop adalah sistem manajemen penjualan kopi berbasis web yang di
 - ✅ Kategori produk
 - ✅ Pagination dan search
 
+
 ### 4. **Manajemen Kategori (CRUD)**
 - ✅ Tambah, edit, hapus kategori
 - ✅ Validasi unique name
 - ✅ Deskripsi kategori
+
 
 ### 5. **Manajemen User (CRUD)**
 - ✅ Kelola semua user (Admin only)
 - ✅ Edit role dan status user
 - ✅ Hapus user kecuali admin
 - ✅ Pagination dan search
+
 
 ### 6. **Sistem Pesanan (Order)**
 - ✅ Customer dapat melihat daftar produk
@@ -426,5 +433,6 @@ Gratis untuk penggunaan edukatif dan komersial
 ---
 
 **Terakhir diupdate**: 18 Januari 2024
-#   u a s - w e b  
+#   u a s - w e b 
+ 
  
